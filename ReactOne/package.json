@@ -1,0 +1,31 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.15.4",
+    "core-js": "^3.13.0",
+    "expo": "~41.0.1",
+    "expo-status-bar": "~1.0.4",
+    "lodash": "^4.17.21",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-native": "^0.63.4",
+    "react-native-action-button": "^2.8.5",
+    "react-native-elements": "^3.4.1",
+    "react-native-modal": "^11.10.0",
+    "react-native-prompt": "^1.0.0",
+    "react-native-ratings": "7.6.1",
+    "react-native-safe-area-context": "3.2.0",
+    "rn-prompt": "^1.0.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.14.3"
+  },
+  "private": true
+}
